@@ -1,4 +1,6 @@
-1/ Executer ContextMenu.reg pour ajouter l'action dans le menu contextuel
+1/ Decompresser ffmpeg.7z
+
+2/ Executer ContextMenu.reg pour ajouter l'action dans le menu contextuel
 
 Voilà.
 
